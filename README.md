@@ -1,7 +1,7 @@
 ### Olá, eu sou o Bielnegri!
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 Estou cursando ADS 
+- 🌱 Estou cursando ADS na Fatec Zona Leste
 <div>
   
   <a href="https://github.com/Bielnegri">
