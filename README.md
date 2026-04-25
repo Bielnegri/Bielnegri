@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhkNWFnNzU5MWlwbXBlcWVmODd4am10dnp6Y3Axb2lzMWQ4bTdkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
 </div>
 
 ###
@@ -19,7 +19,15 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+Sou estudante de Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, com foco em desenvolvimento de software full-stack e construção de soluções eficientes. Atualmente atuo como estagiário de suporte de TI, o que fortalece minha base na área de resolução de problemas.
+<br><br>
+Tenho experiência e interesse em diversas tecnologias, as principais sendo C#, Java, JavaScript e TypeScript, frameworks e ferramentas como .NET, Angular, Flutter e Spring. 
+<br>
+Também utilizo tecnologias para web como HTML, CSS e Bootstrap, e trabalho com bancos de dados e ferramentas modernas como Docker, Kubernetes e serviços em nuvem (AWS e Azure).
+<br><br>
+Neste Github eu compartilho projetos, estudos e aplicações práticas que refletem minha evolução contínua na área de desenvolvimento.
+</p>
 
 ###
 
@@ -96,8 +104,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bielnegri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Bielnegri&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bielnegri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Bielnegri&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
