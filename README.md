@@ -20,13 +20,11 @@
 ###
 
 <p align="left">
-Sou estudante de Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, com foco em desenvolvimento de software full-stack e construção de soluções eficientes. Atualmente atuo como estagiário de suporte de TI, o que fortalece minha base na área de resolução de problemas.
+I am a Systems Analysis and Development student at Fatec Zona Leste, focused on full-stack software development, building efficient solutions. I am currently working as an IT support intern, which strengthens my foundation in problem-solving.
 <br><br>
-Tenho experiência e interesse em diversas tecnologias, as principais sendo C#, Java, JavaScript e TypeScript, frameworks e ferramentas como .NET, Angular, Flutter e Spring. 
-<br>
-Também utilizo tecnologias para web como HTML, CSS e Bootstrap, e trabalho com bancos de dados e ferramentas modernas como Docker, Kubernetes e serviços em nuvem (AWS e Azure).
+I have interest and experience with various technologies, with a primary focus on C#, Java, JavaScript, and TypeScript, as well as frameworks and tools such as .NET, Angular, Flutter, and Spring. I also work with web technologies like HTML, CSS, and Bootstrap, and have experience with databases and modern tools such as Docker, Kubernetes, and cloud services lke AWS and Azure.
 <br><br>
-Neste Github eu compartilho projetos, estudos e aplicações práticas que refletem minha evolução contínua na área de desenvolvimento.
+On this GitHub, I share projects, studies, and practical applications that reflect my continuous growth in the field of software development.
 </p>
 
 ###
