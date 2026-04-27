@@ -20,7 +20,7 @@
 ###
 
 <p align="left">
-I am a Systems Analysis and Development student at Fatec Zona Leste, focused on full-stack software development, building efficient solutions. I am currently working as an IT support intern, which strengthens my foundation in problem-solving.
+I am a Systems Analysis and Development student at Fatec Zona Leste, focused on back-end software development, building efficient solutions. I am currently working as an IT support intern, which strengthens my foundation in problem-solving.
 <br><br>
 I have interest and experience with various technologies, with a primary focus on C#, Java, JavaScript, and TypeScript, as well as frameworks and tools such as .NET, Angular, Flutter, and Spring. I also work with web technologies like HTML, CSS, and Bootstrap, and have experience with databases and modern tools such as Docker, Kubernetes, and cloud services lke AWS and Azure.
 <br><br>
